@@ -1,0 +1,269 @@
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Holvoet TV Chile
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Digital 15
+http://bit.ly/2CLgJ6u
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA:Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 26 1
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 26 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 26 3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 6
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA:Litus | HD www.achoAPPS.com
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",UN3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0064
+
+#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ST Santa Fe:5RTv - CTV - Recreo - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0193
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ME Mendoza:Acequia - 29.1TV - Mendoza  TV - ME Mendoza
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0158
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",5RTv RECREO SANTA FE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0200
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 2 de Jujuy
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0151
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA:Canal 26 Buenos Aires (Opt-2)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemicro 5
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+
+#EXTINF:0 tvg-id="Tvsenado.br" group-title="Channels",Tv Senado 2 SD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Holvoet Copiapo
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV  HD www.achoAPPS.com
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campus Tv Talca
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Pinguino Tv Punta Arenas
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sobrenatural Tv
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHILE:Pinguino TV (Opt-1)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO:CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latinos:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BRASIL:SBT | HD www.achoAPPS.com
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMICRO
+http://2.bp.blogspot.com/-f7WYgLyTPZo/VZQWilXAw9I/AAAAAAAALv0/zKc8sNAkREw/s1600/telemicro%2Bviva.png",TELEMICRO
+
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",telemundo
+http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png"
+
+#EXTINF:0 tvg-id="TG4.ie" group-title="Channels",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Throwback
+http://i.imgur.com/BTiGp2B.png?tecnotv",Throwback
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Today
+http://i.imgur.com/BTiGp2B.png?tecnotv",Today
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toddler
+http://i.imgur.com/BTiGp2B.png?tecnotv",Toddler
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tr3ce
+http://vignette4.wikia.nocookie.net/logopedia/images/0/03/Canal_Tr3ce_HD.png/revision/latest?cb=20151214194315,Tr3ce
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemax HD www.achoAPPS.com
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+
+#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+
+#EXTINF:0 tvg-id="TBN-UK.uk" group-title="Channels",TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEXICO:Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEXICO:Multimedios
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEXICO:RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",6 TV - Crespo - ER Entre Rios
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO:TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX NEWS 23 INTERNACIONALES
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV5 MONDE INTERNACIONALES
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBSN INTERNACIONALES
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PERU:BHtv (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:0 tvg-id="BHTV1.rs" group-title="Channels",BHTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",9 MULTIVISION HD www.achoAPPS.com
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleCaribe Deportes 2
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/1296k/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA:America HD www.achoAPPS.com
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",VISUAL RADIO
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIVE VTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telenord
+http://www.coninfo.net:1935/previsoratv/live/chunklist_w1998857033.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Santa María TV
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXTRA TV 42
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCR0014
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 9 DE SALTA
+http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO LA SALADA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0002
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",LANCELOT
+http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER TV 55
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+
+#EXTINF:0 tvg-id="europa-plus" group-title="Channels",EUROPA PLUS TV
+http://teledifusion.tv:1935/cordoba/cordobalive/chunklist_w1004763452.m3u8
+
+#EXTINF:0 tvg-id="GarageTV.es" group-title="Channels",GARAGE TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1771974564_b446000_sleng.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDM TV
+http://205.164.56.130:1935/marcos536/marcos536/chunklist_w191773249.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTN Internacional
+http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w250775975_b1564000_sleng.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTM TV Live
+http://wowza.btbn.tv/mtmtv/mp4:live/chunklist_w1966979125.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 7 ESPAÑA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO NOVA MISIONES
+http://streamyes.alsolnet.com/radionovatv/live/chunklist_w592590970.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SBN PUERTO RICO
+http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w326834189_b1564000_sleng.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/AlientoSD/chunklist_w359510231.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTN Internacional
+http://184.164.158.202:1936/48/smil:48.smil/chunklist_w2065903390_b1564000_sleng.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOTICIAS:London Live | HD www.achoAPPS.com
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
